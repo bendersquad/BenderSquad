@@ -2,9 +2,9 @@
 
 ## Informações
 
-Duração: Maxima de 2 horas.
-Times: 2
-Tipo: Conquista
+- Duração: Maxima de 2 horas.
+- Times: 2
+- Tipo: Conquista
 
 ## Enredo
 

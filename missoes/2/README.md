@@ -23,16 +23,16 @@ Uma equipe de operações especiais foi designada para resgatar as tropas sitiad
 
 Outras informações
 
-## VIP
+### VIP
 Um dos soldados estará em estado grave. Ele terá as seguintes restrições:
 •	Não poderá utilizar armas.
 •	Só poderá se movimentar, se acompanhado por outro soldado. (Que durante a movimentação não poderá utilizar sua arma).
 •	Só pode se movimentar de forma lenta, caminhada.
 
-## Veículo de resgate
+### Veículo de resgate
 As tropas de resgate poderão utilizar um veículo leve de combate.
 
 
-## Volta ao jogo
+### Volta ao jogo
 1 médico para cada 5 operadores, com o mínimo de 2.
 Total de 20 kits de primeiros socorros, distribuídos de acordo com a vontade do time.
